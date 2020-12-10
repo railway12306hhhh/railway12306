@@ -1,0 +1,86 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1189404",
+      "name": "叮当贷-银行卡授权",
+      "font_class": "dingdangdaiyinxingqiashouquan",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "1977424",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "3022398",
+      "name": "交通出行-接送机",
+      "font_class": "jiaotongchuhang-jiesongji",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "4721084",
+      "name": "休息厅",
+      "font_class": "xiuxiting",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "5818765",
+      "name": "餐饮",
+      "font_class": "canyin",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "7629042",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "9177693",
+      "name": "保险",
+      "font_class": "baoxian",
+      "unicode": "e8f0",
+      "unicode_decimal": 59632
+    },
+    {
+      "icon_id": "14488459",
+      "name": "添加订单",
+      "font_class": "ziyuan35",
+      "unicode": "e779",
+      "unicode_decimal": 59257
+    },
+    {
+      "icon_id": "14713001",
+      "name": "房子",
+      "font_class": "fangzi",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "16581332",
+      "name": "保险",
+      "font_class": "baoxian1",
+      "unicode": "e735",
+      "unicode_decimal": 59189
+    },
+    {
+      "icon_id": "18166232",
+      "name": "手提箱,箱包,手提包,行李包",
+      "font_class": "suitcase",
+      "unicode": "e8ba",
+      "unicode_decimal": 59578
+    }
+  ]
+}

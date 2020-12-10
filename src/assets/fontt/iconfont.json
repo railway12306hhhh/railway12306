@@ -1,0 +1,51 @@
+{
+  "id": "2223529",
+  "name": "啦啦啦",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "493425",
+      "name": "火车",
+      "font_class": "huoche",
+      "unicode": "e798",
+      "unicode_decimal": 59288
+    },
+    {
+      "icon_id": "887965",
+      "name": "我的 (2)",
+      "font_class": "wode2",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "2076286",
+      "name": " 订单 已成功",
+      "font_class": "dingdanyichenggong",
+      "unicode": "e899",
+      "unicode_decimal": 59545
+    },
+    {
+      "icon_id": "4251731",
+      "name": "会员",
+      "font_class": "huiyuan",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "4251772",
+      "name": "行李箱",
+      "font_class": "hanglixiang",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "14055588",
+      "name": "消息",
+      "font_class": "xiaoxi1",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    }
+  ]
+}
